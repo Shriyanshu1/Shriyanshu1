@@ -1,4 +1,5 @@
 ### Hello World, I am Shriyanshu.
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FQDyD&psig=AOvVaw2C9olfWGc_0Vug_9tEevLD&ust=1610443934369000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjxueTJk-4CFQAAAAAdAAAAABAD" width="500" height="320" />
 
 <!--
 **Shriyanshu1/Shriyanshu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
