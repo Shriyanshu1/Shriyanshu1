@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on open-source platforms to some of my favourites.
 - 📫 How to reach me: 
 1. Facebook- https://www.facebook.com/kuke119/   
-2. Gmail- Shriyanshu119@gmail.com 
-3.Instagram-https://www.instagram.com/shriyanshu11/
+2. Gmail- Shriyanshu119@gmail.com  
+3. Instagram- https://www.instagram.com/shriyanshu11/
 - ⚡ About me- I love designing terrains for games and to play football.
