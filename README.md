@@ -1,8 +1,7 @@
 ### Hello World, I am Shriyanshu.
 <img align="right" alt="GIF" src="https://github.com/Shriyanshu1/Shriyanshu1/blob/main/GIF/githubreadme.gif" width="500" height="320" />
 
-<!--
-**Shriyanshu1/Shriyanshu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
