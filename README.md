@@ -4,7 +4,8 @@
 
 
 - 🔭 I’m currently working on enhancing my open-source skills.
-- 🌱 I’m currently learning kotlin. 
+- 🌱 I’m currently learning to codein java and kotlin. plus, improving my pixel art.
+
 - 👯 I’m looking to collaborate on open-source platforms to some of my favourites.
 - 📫 How to reach me: 
 1. Facebook- https://www.facebook.com/kuke119/   
