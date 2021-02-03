@@ -12,3 +12,6 @@
 2. Gmail- Shriyanshu119@gmail.com  
 3. Instagram- https://www.instagram.com/shriyanshu11/
 - ⚡ About me- I love designing terrains for games and i love to learn new things.
+
+
+<img src = "https://github-readme-stats.vercel.app/api?username=Shriyanshu1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=00FFFF">
