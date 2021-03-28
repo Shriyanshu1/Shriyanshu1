@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on enhancing my open-source skills.
-- 🌱 I’m currently learning to code in java and kotlin. plus, improving my pixel art.
+- 🌱 I’m currently learning to code in java and kotlin. Plus, I am looking forward in continuing Indie game and app devs.
 
 - 👯 I’m looking to collaborate on open-source platforms to some of my favourites.
 - 📫 How to reach me: 
