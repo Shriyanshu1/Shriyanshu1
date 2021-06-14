@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on enhancing my open-source skills.
 - 🌱 I’m currently learning to code in java and kotlin. Plus, I am looking forward in continuing Indie game and app devs.
 
-- 👯 I’m looking to collaborate on open-source platforms to some of my favourites.
 - 📫 How to reach me: 
 1. Facebook- https://www.facebook.com/kuke119/   
 2. Gmail- Shriyanshu119@gmail.com  
