@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Shriyanshu1&color=blue)
 
-### Hello World, I am Shriyanshu.
+## Hello World, I am Shriyanshu.
+
 <img align="right" alt="GIF" src="https://github.com/Shriyanshu1/Shriyanshu1/blob/main/GIF/githubreadme.gif" width="500" height="320" />
 
 
