@@ -6,7 +6,7 @@
 
 
 - 🔭 I am learning to develop video games and apps.
-- 🌱 enhancing my skills in designing game assets and graphics.
+- 🌱 Enhancing my skills in designing game assets and graphics.
 
 - 📫 Contact me at Shriyanshu119@gmail.com or at [LinkedIn](https://www.linkedin.com/in/shriyanshu/).
 
