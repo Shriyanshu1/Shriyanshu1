@@ -6,7 +6,7 @@
 - 📫 How to reach me **Shriyanshu119@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img src="https://github.com/Shriyanshu1/Shriyanshu1/blob/main/GIF/githubreadme.gif"  width="500" height="333">
+<img align="right" src="https://github.com/Shriyanshu1/Shriyanshu1/blob/main/GIF/githubreadme.gif"  width="500" height="333">
 
 <p align="left">
 <a href="https://twitter.com/shriyanshu22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shriyanshu22" height="30" width="40" /></a>
