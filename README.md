@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shriyanshu Kukreti</h1>
 <h3 align="center">I am a computer science engineering student currently in my 3rd year.</h3>
 
-- 🌱 I’m currently learning **2D/3D game, art development and DSA.**
+- 🌱 ** App/Game Designer and Developer**
+- 🌱 ** DSA Enthusiast**
 
 - 📫 How to reach me **Shriyanshu119@gmail.com**
 
