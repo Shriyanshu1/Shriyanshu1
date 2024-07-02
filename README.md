@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shriyanshu Kukreti</h1>
-<h3 align="center">I am a computer science engineering student currently in my 3rd year.</h3>
+<h3 align="center">Pursuing Game development as my full-time career!.</h3>
 
 - 🌱 **App/Game Designer and Developer**
 - 🌱 **DSA Enthusiast**
